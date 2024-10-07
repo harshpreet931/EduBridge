@@ -1,3 +1,0 @@
-# EduBridge
-
-Test Harshit
