@@ -44,7 +44,7 @@ export default function Course({course}) {
           }
           { courseState === "activated" &&
             <Message type="success">
-              Eincode wishes you happy watching of the course.
+              FBI wishes you happy watching of the course.
             </Message>
           }
           { courseState === "deactivated" &&
