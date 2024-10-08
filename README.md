@@ -2,7 +2,7 @@
 
 Welcome to our **Next.js** project, dedicated to bringing quality education to underprivileged communities. Built using [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app), this project harnesses the power of modern web development to drive social impact through accessible learning. 🌍
 
-![How it works](./EduBridge.jpg)
+![How it works](/EduBridge.jpg)
 
 ## 🔑 Setting Up Your Environment
 
@@ -81,7 +81,9 @@ Once everything is set up, follow these steps to launch the development server:
 
 ```bash
 npm run dev
-yarn dev
 ```
 
 Head over to [http://localhost:3000](http://localhost:3000) to see the app in action.
+
+## 📺 Demo Video
+[Watch our Short Demo Video](https://www.youtube.com/watch?v=KDvyRJivSwg)
