@@ -1,4 +1,4 @@
-# 📚 Empowering Education for All: Next.js Project
+# 📚 FBI: Empowering Education for All
 
 Welcome to our **Next.js** project, dedicated to bringing quality education to underprivileged communities. Built using [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app), this project harnesses the power of modern web development to drive social impact through accessible learning. 🌍
 
