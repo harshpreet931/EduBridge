@@ -86,4 +86,4 @@ npm run dev
 Head over to [http://localhost:3000](http://localhost:3000) to see the app in action.
 
 ## 📺 Demo Video
-[Watch our Short Demo Video](https://www.youtube.com/watch?v=KDvyRJivSwg)
+[Watch our Short Demo Video](https://youtu.be/ZhMMMi6NMrg)
