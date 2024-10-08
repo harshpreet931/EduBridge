@@ -27,12 +27,6 @@ export const withToast = (promise) => {
               <p>
                 Has been succesfuly processed.
               </p>
-              <a
-                href={`https://ropsten.etherscan.io/tx/${data.transactionHash}`}
-                target="_blank"
-              >
-                <i className="text-yellow-500 underline">See Tx Details</i>
-              </a>
             </div>
           )
         },
