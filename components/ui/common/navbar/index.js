@@ -25,7 +25,7 @@ export default function Navbar() {
               <ActiveLink href="/marketplace" >
                 <a
                   className="font-medium mr-8 text-gray-500 hover:text-gray-900">
-                  Marketplace
+                  Courses
                 </a>
               </ActiveLink>
             </div>
